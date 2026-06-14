@@ -1,0 +1,7 @@
+{
+  "name": "AI Based Natural Language Query System",
+  "description": "An intelligent system that converts natural language queries into SQL commands using LLMs, executes them, and visualizes results.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}

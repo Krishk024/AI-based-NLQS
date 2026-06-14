@@ -1,0 +1,2 @@
+// Admin pages — placeholder
+export {};
